@@ -1,12 +1,13 @@
-# Sensy
+# init0-sentinel
+
 
 > A Smart AI-powered Social Listening & Simulation Platform for Brands, Creators, and Analysts
 
 ---
 
-## 🧠 What is Sensy?
+## 🧠 What is init0-sentinel?
 
-**Sensy** is a multi-platform AI-powered post analysis and audience simulation tool built to help:
+**init0-sentinel** is a multi-platform AI-powered post analysis and audience simulation tool built to help:
 - Brands 📢
 - Influencers 🎥
 - Researchers 📊

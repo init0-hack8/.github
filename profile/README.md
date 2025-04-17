@@ -6,7 +6,7 @@
 
 ## 🧠 What is Sensy?
 
-**init0-sentinel** is a multi-platform AI-powered post analysis and audience simulation tool built to help:
+**Sensy** is a multi-platform AI-powered post analysis and audience simulation tool built to help:
 - Brands 📢
 - Influencers 🎥
 - Researchers 📊

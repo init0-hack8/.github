@@ -1,4 +1,4 @@
-# init0-sentinel
+# Sensy
 
 > A Smart AI-powered Social Listening & Simulation Platform for Brands, Creators, and Analysts
 
